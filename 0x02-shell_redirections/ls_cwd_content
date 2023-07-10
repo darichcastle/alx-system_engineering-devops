@@ -1,0 +1,16 @@
+total 56
+-rw-r--r-- 1 darichcastle darichcastle   12 Jul 10 09:08 *\"Best School"\\*$?*****:)
+drwxr-xr-x 2 darichcastle darichcastle 4096 Jul 10 09:28 .
+drwxr-xr-x 6 darichcastle darichcastle 4096 Jul 10 05:54 ..
+-rwxr--r-- 1 darichcastle darichcastle   32 Jul 10 07:47 0-hello_world
+-rwxr--r-- 1 darichcastle darichcastle   31 Jul 10 06:43 1-confused_smiley
+-rwxr--r-- 1 darichcastle darichcastle   28 Jul 10 06:44 2-hellofile
+-rwxr--r-- 1 darichcastle darichcastle   39 Jul 10 06:48 3-twofiles
+-rwxr--r-- 1 darichcastle darichcastle   41 Jul 10 07:52 4-lastlines
+-rwxr--r-- 1 darichcastle darichcastle   41 Jul 10 06:57 5-firstlines
+-rwxr--r-- 1 darichcastle darichcastle   46 Jul 10 07:57 6-third_line
+-rwxr--r-- 1 darichcastle darichcastle   75 Jul 10 09:20 7-file
+-rwxr--r-- 1 darichcastle darichcastle   36 Jul 10 09:27 8-cwd_state
+-rw-r--r-- 1 darichcastle darichcastle   48 Jul 10 06:14 README.md
+-rw-r--r-- 1 darichcastle darichcastle    0 Jul 10 09:28 ls_cwd_content
+-rw-r--r-- 1 darichcastle darichcastle  157 Jul 10 07:23 test1.txt
